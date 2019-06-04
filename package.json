@@ -1,0 +1,16 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepages":"https://github.com/Heart8reak/antonia.git",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
